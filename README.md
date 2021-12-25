@@ -7,7 +7,7 @@
 1. clone repo `>> git clone [repo url]`
 2. open repo with VScode 
 3. open new terminal
-4. run the project `>> py homePage.py`
+4. run the project `>> py Student.py`
 
 ## Simple Student Management System Panel
 ![Welcom Page](images/2.png)
