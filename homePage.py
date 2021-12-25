@@ -24,6 +24,3 @@ home=Tk()
 ob=home_page(home)
 home.mainloop()
 
-# admin=Tk()
-# ob2=home_page.admin(admin)
-# admin.mainloop()
