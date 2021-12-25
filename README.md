@@ -9,6 +9,5 @@
 3. open new terminal
 4. run the project `>> py homePage.py`
 
-## How To Use APP
-1. this is the first page. Click the button which has "admin" Value
-![Welcom Page]()
+## Simple Student Management System Panel
+![Welcom Page](images/2.png)
