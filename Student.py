@@ -273,8 +273,7 @@ class Student:
         con.close()
 
 
-def admin():
-    root = Tk()
-    ob = Student(root)
-    ob.createDb()
-    root.mainloop()
+root = Tk()
+ob = Student(root)
+ob.createDb()
+root.mainloop()
